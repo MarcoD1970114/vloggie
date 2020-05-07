@@ -1,2 +1,0 @@
-# vloggie
-Created with CodeSandbox

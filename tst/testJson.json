@@ -1,0 +1,30 @@
+{
+  "testOk": {
+    "hash": "3489002a",
+    "where": "index",
+    "when": 1587970597849,
+    "what": "end",
+    "value": "value"
+  },
+  "testNOkNohash": {
+    "where": "index",
+    "when": 1587970597849,
+    "what": "end",
+    "value": "value"
+  },
+  "testNOkStrangePage": {
+    "hash": "3489002a",
+    "where": "bagger",
+    "when": 1587970597849,
+    "what": "end",
+    "value": "value"
+  },
+  "testNokToLong": {
+    "hash": "3489002a",
+    "where": "index",
+    "when": 1587970597849,
+    "what": "end",
+    "value": "value",
+    "extra": "extra"
+  }
+}
