@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "csv-writer": "1.6.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "mocha": "7.1.2",
     "pouchdb": "7.2.1"
   },
